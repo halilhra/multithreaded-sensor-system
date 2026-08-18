@@ -1,0 +1,2 @@
+# logs/ klasöründeki dosyalar Git'e dahil edilmez.
+# Bu dosya sadece klasörün Git tarafından takip edilmesini sağlar.
